@@ -1,5 +1,8 @@
 {
   "project_name": "project_name",
   "author_name": "Your name (or your organization/company/team)",
-  "description": "A short description of the project."
+  "description": "A short description of the project.",
+  "s3_bucket": "[OPTIONAL] S3 Bucket",
+  "s3_key": "[OPTIONAL] S3 Key",
+  "aws_profile": "default"
 }
